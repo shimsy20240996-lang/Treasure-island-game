@@ -2,6 +2,8 @@
 
 A cinematic, interactive browser-based pirate adventure game upgraded from a Python text adventure into a modern web experience built with **React**, **Vite**, **Web Audio API**, and **SVG graphics**.
 
+🎮 **[Play Live on GitHub Pages](https://shimsy20240996-lang.github.io/Treasure-island-game/)**
+
 ---
 
 ## 🏴‍☠️ Project Overview & Transformation
